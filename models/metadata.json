@@ -1,0 +1,106 @@
+{
+  "feature_version": "santorini-v1",
+  "input_size": 81,
+  "architecture": [
+    81,
+    64,
+    32,
+    1
+  ],
+  "activation": "ReLU hidden layers; tanh output",
+  "training_method": "supervised learning from game outcomes",
+  "target_definition": "+1 if the player to move eventually wins; -1 if they lose; 0 for draw",
+  "self_play_opponents": "Phase 1 alpha-beta search bot versus itself",
+  "opponent_mode": "selfplay",
+  "games": 2000,
+  "positions": 75290,
+  "training_positions": 59889,
+  "validation_positions": 15401,
+  "validation_split": "20% of whole games, not individual positions",
+  "seed": 20261119,
+  "search_time_seconds": 0.2,
+  "max_turns": 150,
+  "outcomes": {
+    "win": 1992,
+    "no_legal_action": 8
+  },
+  "epochs": 80,
+  "learning_rate": 0.001,
+  "batch_size": 128,
+  "last_epoch_train_mse": 0.7442197799682617,
+  "last_epoch_validation_mse": 0.9825159907341003,
+  "best_validation_mse": 0.9145510196685791,
+  "best_validation_epoch": 2,
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_mse": 0.8927778005599976,
+      "validation_mse": 0.9224795699119568
+    },
+    {
+      "epoch": 2,
+      "train_mse": 0.8745959997177124,
+      "validation_mse": 0.9145510196685791
+    },
+    {
+      "epoch": 3,
+      "train_mse": 0.8607024550437927,
+      "validation_mse": 0.9174368977546692
+    },
+    {
+      "epoch": 4,
+      "train_mse": 0.8480898141860962,
+      "validation_mse": 0.9233748316764832
+    },
+    {
+      "epoch": 5,
+      "train_mse": 0.8350196480751038,
+      "validation_mse": 0.9310643672943115
+    },
+    {
+      "epoch": 6,
+      "train_mse": 0.8158279061317444,
+      "validation_mse": 0.9317054152488708
+    },
+    {
+      "epoch": 7,
+      "train_mse": 0.8046116828918457,
+      "validation_mse": 0.940887451171875
+    },
+    {
+      "epoch": 8,
+      "train_mse": 0.7944086790084839,
+      "validation_mse": 0.9441792368888855
+    },
+    {
+      "epoch": 9,
+      "train_mse": 0.7881496548652649,
+      "validation_mse": 0.9553259015083313
+    },
+    {
+      "epoch": 10,
+      "train_mse": 0.7819544672966003,
+      "validation_mse": 0.9677589535713196
+    },
+    {
+      "epoch": 11,
+      "train_mse": 0.7656112909317017,
+      "validation_mse": 0.9675278663635254
+    },
+    {
+      "epoch": 12,
+      "train_mse": 0.7587526440620422,
+      "validation_mse": 0.971314013004303
+    },
+    {
+      "epoch": 13,
+      "train_mse": 0.750133752822876,
+      "validation_mse": 0.9756274819374084
+    },
+    {
+      "epoch": 14,
+      "train_mse": 0.7442197799682617,
+      "validation_mse": 0.9825159907341003
+    }
+  ]
+}
