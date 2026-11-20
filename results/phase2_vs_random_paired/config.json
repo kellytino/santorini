@@ -1,0 +1,530 @@
+{
+  "games": 100,
+  "seed_start": 20261220,
+  "assignments": [
+    {
+      "game": 1,
+      "seed": 20261220,
+      "phase2_player": "A"
+    },
+    {
+      "game": 2,
+      "seed": 20261220,
+      "phase2_player": "B"
+    },
+    {
+      "game": 3,
+      "seed": 20261221,
+      "phase2_player": "A"
+    },
+    {
+      "game": 4,
+      "seed": 20261221,
+      "phase2_player": "B"
+    },
+    {
+      "game": 5,
+      "seed": 20261222,
+      "phase2_player": "A"
+    },
+    {
+      "game": 6,
+      "seed": 20261222,
+      "phase2_player": "B"
+    },
+    {
+      "game": 7,
+      "seed": 20261223,
+      "phase2_player": "A"
+    },
+    {
+      "game": 8,
+      "seed": 20261223,
+      "phase2_player": "B"
+    },
+    {
+      "game": 9,
+      "seed": 20261224,
+      "phase2_player": "A"
+    },
+    {
+      "game": 10,
+      "seed": 20261224,
+      "phase2_player": "B"
+    },
+    {
+      "game": 11,
+      "seed": 20261225,
+      "phase2_player": "A"
+    },
+    {
+      "game": 12,
+      "seed": 20261225,
+      "phase2_player": "B"
+    },
+    {
+      "game": 13,
+      "seed": 20261226,
+      "phase2_player": "A"
+    },
+    {
+      "game": 14,
+      "seed": 20261226,
+      "phase2_player": "B"
+    },
+    {
+      "game": 15,
+      "seed": 20261227,
+      "phase2_player": "A"
+    },
+    {
+      "game": 16,
+      "seed": 20261227,
+      "phase2_player": "B"
+    },
+    {
+      "game": 17,
+      "seed": 20261228,
+      "phase2_player": "A"
+    },
+    {
+      "game": 18,
+      "seed": 20261228,
+      "phase2_player": "B"
+    },
+    {
+      "game": 19,
+      "seed": 20261229,
+      "phase2_player": "A"
+    },
+    {
+      "game": 20,
+      "seed": 20261229,
+      "phase2_player": "B"
+    },
+    {
+      "game": 21,
+      "seed": 20261230,
+      "phase2_player": "A"
+    },
+    {
+      "game": 22,
+      "seed": 20261230,
+      "phase2_player": "B"
+    },
+    {
+      "game": 23,
+      "seed": 20261231,
+      "phase2_player": "A"
+    },
+    {
+      "game": 24,
+      "seed": 20261231,
+      "phase2_player": "B"
+    },
+    {
+      "game": 25,
+      "seed": 20261232,
+      "phase2_player": "A"
+    },
+    {
+      "game": 26,
+      "seed": 20261232,
+      "phase2_player": "B"
+    },
+    {
+      "game": 27,
+      "seed": 20261233,
+      "phase2_player": "A"
+    },
+    {
+      "game": 28,
+      "seed": 20261233,
+      "phase2_player": "B"
+    },
+    {
+      "game": 29,
+      "seed": 20261234,
+      "phase2_player": "A"
+    },
+    {
+      "game": 30,
+      "seed": 20261234,
+      "phase2_player": "B"
+    },
+    {
+      "game": 31,
+      "seed": 20261235,
+      "phase2_player": "A"
+    },
+    {
+      "game": 32,
+      "seed": 20261235,
+      "phase2_player": "B"
+    },
+    {
+      "game": 33,
+      "seed": 20261236,
+      "phase2_player": "A"
+    },
+    {
+      "game": 34,
+      "seed": 20261236,
+      "phase2_player": "B"
+    },
+    {
+      "game": 35,
+      "seed": 20261237,
+      "phase2_player": "A"
+    },
+    {
+      "game": 36,
+      "seed": 20261237,
+      "phase2_player": "B"
+    },
+    {
+      "game": 37,
+      "seed": 20261238,
+      "phase2_player": "A"
+    },
+    {
+      "game": 38,
+      "seed": 20261238,
+      "phase2_player": "B"
+    },
+    {
+      "game": 39,
+      "seed": 20261239,
+      "phase2_player": "A"
+    },
+    {
+      "game": 40,
+      "seed": 20261239,
+      "phase2_player": "B"
+    },
+    {
+      "game": 41,
+      "seed": 20261240,
+      "phase2_player": "A"
+    },
+    {
+      "game": 42,
+      "seed": 20261240,
+      "phase2_player": "B"
+    },
+    {
+      "game": 43,
+      "seed": 20261241,
+      "phase2_player": "A"
+    },
+    {
+      "game": 44,
+      "seed": 20261241,
+      "phase2_player": "B"
+    },
+    {
+      "game": 45,
+      "seed": 20261242,
+      "phase2_player": "A"
+    },
+    {
+      "game": 46,
+      "seed": 20261242,
+      "phase2_player": "B"
+    },
+    {
+      "game": 47,
+      "seed": 20261243,
+      "phase2_player": "A"
+    },
+    {
+      "game": 48,
+      "seed": 20261243,
+      "phase2_player": "B"
+    },
+    {
+      "game": 49,
+      "seed": 20261244,
+      "phase2_player": "A"
+    },
+    {
+      "game": 50,
+      "seed": 20261244,
+      "phase2_player": "B"
+    },
+    {
+      "game": 51,
+      "seed": 20261245,
+      "phase2_player": "A"
+    },
+    {
+      "game": 52,
+      "seed": 20261245,
+      "phase2_player": "B"
+    },
+    {
+      "game": 53,
+      "seed": 20261246,
+      "phase2_player": "A"
+    },
+    {
+      "game": 54,
+      "seed": 20261246,
+      "phase2_player": "B"
+    },
+    {
+      "game": 55,
+      "seed": 20261247,
+      "phase2_player": "A"
+    },
+    {
+      "game": 56,
+      "seed": 20261247,
+      "phase2_player": "B"
+    },
+    {
+      "game": 57,
+      "seed": 20261248,
+      "phase2_player": "A"
+    },
+    {
+      "game": 58,
+      "seed": 20261248,
+      "phase2_player": "B"
+    },
+    {
+      "game": 59,
+      "seed": 20261249,
+      "phase2_player": "A"
+    },
+    {
+      "game": 60,
+      "seed": 20261249,
+      "phase2_player": "B"
+    },
+    {
+      "game": 61,
+      "seed": 20261250,
+      "phase2_player": "A"
+    },
+    {
+      "game": 62,
+      "seed": 20261250,
+      "phase2_player": "B"
+    },
+    {
+      "game": 63,
+      "seed": 20261251,
+      "phase2_player": "A"
+    },
+    {
+      "game": 64,
+      "seed": 20261251,
+      "phase2_player": "B"
+    },
+    {
+      "game": 65,
+      "seed": 20261252,
+      "phase2_player": "A"
+    },
+    {
+      "game": 66,
+      "seed": 20261252,
+      "phase2_player": "B"
+    },
+    {
+      "game": 67,
+      "seed": 20261253,
+      "phase2_player": "A"
+    },
+    {
+      "game": 68,
+      "seed": 20261253,
+      "phase2_player": "B"
+    },
+    {
+      "game": 69,
+      "seed": 20261254,
+      "phase2_player": "A"
+    },
+    {
+      "game": 70,
+      "seed": 20261254,
+      "phase2_player": "B"
+    },
+    {
+      "game": 71,
+      "seed": 20261255,
+      "phase2_player": "A"
+    },
+    {
+      "game": 72,
+      "seed": 20261255,
+      "phase2_player": "B"
+    },
+    {
+      "game": 73,
+      "seed": 20261256,
+      "phase2_player": "A"
+    },
+    {
+      "game": 74,
+      "seed": 20261256,
+      "phase2_player": "B"
+    },
+    {
+      "game": 75,
+      "seed": 20261257,
+      "phase2_player": "A"
+    },
+    {
+      "game": 76,
+      "seed": 20261257,
+      "phase2_player": "B"
+    },
+    {
+      "game": 77,
+      "seed": 20261258,
+      "phase2_player": "A"
+    },
+    {
+      "game": 78,
+      "seed": 20261258,
+      "phase2_player": "B"
+    },
+    {
+      "game": 79,
+      "seed": 20261259,
+      "phase2_player": "A"
+    },
+    {
+      "game": 80,
+      "seed": 20261259,
+      "phase2_player": "B"
+    },
+    {
+      "game": 81,
+      "seed": 20261260,
+      "phase2_player": "A"
+    },
+    {
+      "game": 82,
+      "seed": 20261260,
+      "phase2_player": "B"
+    },
+    {
+      "game": 83,
+      "seed": 20261261,
+      "phase2_player": "A"
+    },
+    {
+      "game": 84,
+      "seed": 20261261,
+      "phase2_player": "B"
+    },
+    {
+      "game": 85,
+      "seed": 20261262,
+      "phase2_player": "A"
+    },
+    {
+      "game": 86,
+      "seed": 20261262,
+      "phase2_player": "B"
+    },
+    {
+      "game": 87,
+      "seed": 20261263,
+      "phase2_player": "A"
+    },
+    {
+      "game": 88,
+      "seed": 20261263,
+      "phase2_player": "B"
+    },
+    {
+      "game": 89,
+      "seed": 20261264,
+      "phase2_player": "A"
+    },
+    {
+      "game": 90,
+      "seed": 20261264,
+      "phase2_player": "B"
+    },
+    {
+      "game": 91,
+      "seed": 20261265,
+      "phase2_player": "A"
+    },
+    {
+      "game": 92,
+      "seed": 20261265,
+      "phase2_player": "B"
+    },
+    {
+      "game": 93,
+      "seed": 20261266,
+      "phase2_player": "A"
+    },
+    {
+      "game": 94,
+      "seed": 20261266,
+      "phase2_player": "B"
+    },
+    {
+      "game": 95,
+      "seed": 20261267,
+      "phase2_player": "A"
+    },
+    {
+      "game": 96,
+      "seed": 20261267,
+      "phase2_player": "B"
+    },
+    {
+      "game": 97,
+      "seed": 20261268,
+      "phase2_player": "A"
+    },
+    {
+      "game": 98,
+      "seed": 20261268,
+      "phase2_player": "B"
+    },
+    {
+      "game": 99,
+      "seed": 20261269,
+      "phase2_player": "A"
+    },
+    {
+      "game": 100,
+      "seed": 20261269,
+      "phase2_player": "B"
+    }
+  ],
+  "time_limit_seconds": 1.5,
+  "max_turns": 200,
+  "python_version": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "bots": {
+    "phase2": {
+      "name": "Phase 2",
+      "path": "C:\\Users\\kelly\\santorini\\bot\\phase2_bot.py",
+      "sha256": "445c204026bc75b1e5cc266f05a93a18b46f8dae65c1ef692da92e745dfbb91b",
+      "evaluator": {
+        "path": "C:\\Users\\kelly\\santorini\\bot\\phase2_common.py",
+        "sha256": "68ffaee8feace7b1e8a019574f1646b927137e1ae37399a9f42bbab17b28fe28"
+      },
+      "model": {
+        "path": "C:\\Users\\kelly\\santorini\\models\\santorini_value_model.npz",
+        "sha256": "6dcf5f9a1124af5c585fa3e9ad3b1eb0ff207aa862cbf64240ba3e89e06cb776"
+      }
+    },
+    "opponent": {
+      "name": "Phase 1 random",
+      "path": "C:\\Users\\kelly\\santorini\\src\\random_bot.py",
+      "sha256": "5b1a94cd44395854c125e081488c9e342fdb5ab972468ef9d491b00db7e5cf59",
+      "rng_seed": "each game's seed, applied to module._rng before play"
+    }
+  }
+}

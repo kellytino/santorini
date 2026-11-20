@@ -1,0 +1,33 @@
+{
+  "games": 2,
+  "draws": 0,
+  "average_game_length_plies": 35,
+  "bots": {
+    "phase2": {
+      "name": "Phase 2",
+      "starts": 1,
+      "wins": 1,
+      "losses": 1,
+      "draws": 0,
+      "forfeits": 0,
+      "forfeits_by_reason": {
+        "time_limit": 0,
+        "invalid_action": 0,
+        "bot_exception": 0
+      }
+    },
+    "opponent": {
+      "name": "Phase 1 search",
+      "starts": 1,
+      "wins": 1,
+      "losses": 1,
+      "draws": 0,
+      "forfeits": 0,
+      "forfeits_by_reason": {
+        "time_limit": 0,
+        "invalid_action": 0,
+        "bot_exception": 0
+      }
+    }
+  }
+}

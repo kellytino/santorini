@@ -1,0 +1,3 @@
+game,seed,phase2_player,starting_bot,winner,winner_bot,winner_id,loser_bot,reason,turns_played,plies,detail
+1,20261220,A,phase2,Phase 2,phase2,0,opponent,win,31,31,
+2,20261220,B,opponent,Phase 1 search,opponent,0,phase2,win,39,39,

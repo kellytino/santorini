@@ -1,0 +1,804 @@
+[
+  {
+    "game": 1,
+    "seed": 20261220,
+    "phase2_player": "A",
+    "starting_bot": "phase2",
+    "winner": "Phase 2",
+    "winner_bot": "phase2",
+    "winner_id": 0,
+    "loser_bot": "opponent",
+    "reason": "win",
+    "turns_played": 31,
+    "plies": 31,
+    "detail": "",
+    "moves": [
+      {
+        "worker": 0,
+        "move_to": [
+          2,
+          4
+        ],
+        "build_at": [
+          3,
+          3
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          0,
+          0
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          4,
+          1
+        ],
+        "build_at": [
+          3,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          3
+        ],
+        "build_at": [
+          1,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          1
+        ],
+        "build_at": [
+          4,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          1,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          4,
+          1
+        ],
+        "build_at": [
+          3,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          2,
+          1
+        ],
+        "build_at": [
+          3,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          2,
+          3
+        ],
+        "build_at": [
+          1,
+          4
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          0,
+          0
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          2,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          0
+        ],
+        "build_at": [
+          0,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          1,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          3
+        ],
+        "build_at": [
+          1,
+          2
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          1
+        ],
+        "build_at": [
+          1,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          2
+        ],
+        "build_at": [
+          2,
+          2
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          2,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          3
+        ],
+        "build_at": [
+          2,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          2
+        ],
+        "build_at": [
+          2,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          3
+        ],
+        "build_at": [
+          2,
+          2
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          2,
+          1
+        ],
+        "build_at": [
+          1,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          4,
+          2
+        ],
+        "build_at": [
+          3,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          2,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          0
+        ],
+        "build_at": [
+          2,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          0
+        ],
+        "build_at": [
+          0,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          2,
+          0
+        ],
+        "build_at": [
+          1,
+          0
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          0
+        ],
+        "build_at": [
+          0,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          3
+        ],
+        "build_at": [
+          2,
+          3
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          0
+        ],
+        "build_at": [
+          1,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          0
+        ],
+        "build_at": [
+          0,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "game": 2,
+    "seed": 20261220,
+    "phase2_player": "B",
+    "starting_bot": "opponent",
+    "winner": "Phase 1 search",
+    "winner_bot": "opponent",
+    "winner_id": 0,
+    "loser_bot": "phase2",
+    "reason": "win",
+    "turns_played": 39,
+    "plies": 39,
+    "detail": "",
+    "moves": [
+      {
+        "worker": 0,
+        "move_to": [
+          2,
+          3
+        ],
+        "build_at": [
+          2,
+          4
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          3
+        ],
+        "build_at": [
+          2,
+          4
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          2,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          2
+        ],
+        "build_at": [
+          2,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          0,
+          0
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          2,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          2
+        ],
+        "build_at": [
+          3,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          1
+        ],
+        "build_at": [
+          0,
+          0
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          1
+        ],
+        "build_at": [
+          3,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          3
+        ],
+        "build_at": [
+          1,
+          4
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          2
+        ],
+        "build_at": [
+          3,
+          1
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          2
+        ],
+        "build_at": [
+          3,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          2
+        ],
+        "build_at": [
+          0,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          0,
+          3
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          0,
+          0
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          2
+        ],
+        "build_at": [
+          0,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          3
+        ],
+        "build_at": [
+          3,
+          3
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          3
+        ],
+        "build_at": [
+          2,
+          4
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          3
+        ],
+        "build_at": [
+          3,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          2
+        ],
+        "build_at": [
+          3,
+          2
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          0,
+          1
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          2
+        ],
+        "build_at": [
+          1,
+          3
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          3
+        ],
+        "build_at": [
+          1,
+          4
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          3
+        ],
+        "build_at": [
+          1,
+          4
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          1,
+          3
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          1
+        ],
+        "build_at": [
+          0,
+          2
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          0,
+          2
+        ],
+        "build_at": [
+          0,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          1,
+          3
+        ]
+      },
+      {
+        "worker": 0,
+        "move_to": [
+          1,
+          1
+        ],
+        "build_at": [
+          0,
+          0
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          0,
+          2
+        ],
+        "build_at": [
+          1,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          4
+        ],
+        "build_at": [
+          2,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          2,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          3
+        ],
+        "build_at": [
+          4,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          2
+        ],
+        "build_at": [
+          2,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          4,
+          3
+        ],
+        "build_at": [
+          3,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          1,
+          2
+        ],
+        "build_at": [
+          2,
+          3
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          3,
+          3
+        ],
+        "build_at": [
+          2,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          2
+        ],
+        "build_at": [
+          3,
+          2
+        ]
+      },
+      {
+        "worker": 1,
+        "move_to": [
+          2,
+          4
+        ],
+        "build_at": [
+          1,
+          4
+        ]
+      }
+    ]
+  }
+]

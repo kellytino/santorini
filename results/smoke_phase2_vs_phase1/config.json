@@ -1,0 +1,40 @@
+{
+  "games": 2,
+  "seed_start": 20261220,
+  "assignments": [
+    {
+      "game": 1,
+      "seed": 20261220,
+      "phase2_player": "A"
+    },
+    {
+      "game": 2,
+      "seed": 20261220,
+      "phase2_player": "B"
+    }
+  ],
+  "time_limit_seconds": 1.5,
+  "max_turns": 200,
+  "python_version": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "bots": {
+    "phase2": {
+      "name": "Phase 2",
+      "path": "C:\\Users\\kelly\\santorini\\bot\\phase2_bot.py",
+      "sha256": "445c204026bc75b1e5cc266f05a93a18b46f8dae65c1ef692da92e745dfbb91b",
+      "evaluator": {
+        "path": "C:\\Users\\kelly\\santorini\\bot\\phase2_common.py",
+        "sha256": "68ffaee8feace7b1e8a019574f1646b927137e1ae37399a9f42bbab17b28fe28"
+      },
+      "model": {
+        "path": "C:\\Users\\kelly\\santorini\\models\\santorini_value_model.npz",
+        "sha256": "6dcf5f9a1124af5c585fa3e9ad3b1eb0ff207aa862cbf64240ba3e89e06cb776"
+      }
+    },
+    "opponent": {
+      "name": "Phase 1 search",
+      "path": "C:\\Users\\kelly\\santorini\\src\\search_bot.py",
+      "sha256": "c79f1c1bf5b740c95558c36efad561a5c18e704e980cfa9db67f3b137caf853c",
+      "rng_seed": null
+    }
+  }
+}
